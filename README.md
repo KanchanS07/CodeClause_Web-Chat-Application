@@ -3,8 +3,7 @@ A Web Chat Application
 This is full stack web application made with vanilla javascript in this you can scroll the upcomimg events of movies and games and like dislike and create a room or join a existing room and chat within your personal room send selfies and play music inside the app.
 
 # Working
-https://github.com/KanchanS07/CodeClause_Web-Chat-Application/assets/125366923/b45cc360-bf4d-4710-bee8-9f0e4bd5e5a2
-
+https://github.com/KanchanS07/CodeClause_Web-Chat-Application/assets/125366923/019eb034-fda4-415d-b499-ef77adbc4aa5
 
 
 
